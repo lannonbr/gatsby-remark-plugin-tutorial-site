@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-remark-purple-headers",
+  "main": "index.js",
+  "private": true,
+  "author": {
+    "name": "Benjamin Lannon",
+    "email": "benjamin@lannonbr.com"
+  },
+  "dependencies": {
+    "mdast-util-to-string": "^1.0.5",
+    "unist-util-visit": "^1.4.0"
+  }
+}
